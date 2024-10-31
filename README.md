@@ -1,22 +1,22 @@
-# LaTeX Resume Template
+# Modèle de CV en LaTeX
 
-This repository contains a LaTeX template for creating a resume.
+Ce dépôt contient un modèle LaTeX pour créer un CV.
 
-## Usage
+## Utilisation
 
-1. Clone or download this repository to your local machine.
-2. Edit the [`main.tex`](main.tex) file using a LaTeX editor.
-3. Customize the content according to your personal information, education, experience, etc.
-4. Replace [`photo.jpg`](photo.jpg) with your profile photo and update the file path in `main.tex` accordingly.
-5. [Compile](https://guides.lib.wayne.edu/latex/compile) the `main.tex` file to generate your resume in PDF format.
+1. Clonez ou téléchargez ce dépôt sur votre machine locale.
+2. Modifiez le fichier [`main.tex`](main.tex) à l'aide d'un éditeur LaTeX.
+3. Personnalisez le contenu en fonction de vos informations personnelles, de votre éducation, de votre expérience, etc.
+4. Remplacez [`photo.jpg`](photo.jpg) par votre photo de profil et mettez à jour le chemin du fichier dans `main.tex` en conséquence.
+5. [Compilez](https://guides.lib.wayne.edu/latex/compile) le fichier `main.tex` pour générer votre CV au format PDF.
 
-## Resume : 
+## Aperçu du CV
 ![resume](./resume.png)
 
-## Acknowledgments
+## Remerciements
 
-- This LaTeX template is based on some templates with modifications.
+- Ce modèle LaTeX est basé sur certains modèles existants avec des modifications.
 
-## Contributing
+## Contribution
 
-Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to open an issue or submit a pull request.
+Les contributions sont les bienvenues ! Si vous avez des suggestions, des améliorations ou des corrections de bogues, n'hésitez pas à ouvrir un problème ou à soumettre une demande de fusion.
